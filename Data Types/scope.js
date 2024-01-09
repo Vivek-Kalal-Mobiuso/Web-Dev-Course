@@ -5,3 +5,4 @@ function sayHello(){
 }
 
 var i = 10;
+// console.log(globalThis);
